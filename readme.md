@@ -11,3 +11,10 @@ https://my-json-server.typicode.com/
 
 Roque Example:
 
+http://my-json-server.typicode.com/dtniko/jsonFakeServer
+
+exemple
+
+http://my-json-server.typicode.com/dtniko/jsonFakeServer/posts
+
+http://my-json-server.typicode.com/dtniko/jsonFakeServer/posts/1
