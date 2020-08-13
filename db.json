@@ -6,6 +6,7 @@
     }
   ],
   "login": {
-    "token": "sqwerqwdeqwdD324.Eedf32eqwFW43TER"
+    "token": "sqwerqwdeqwdD324.Eedf32eqwFW43TER",
+    "expired": 3600
   }
 }
