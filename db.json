@@ -6,7 +6,22 @@
     }
   ],
   "login": {
-    "token": "sqwerqwdeqwdD324.Eedf32eqwFW43TER",
-    "expired": 3600
+    "meta": {
+      "success": true,
+      "jwtToken": {
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJnMHJpZCI6IjZCNzk3RDg0MEZERjU4MDFDNUZEMTRDNjY1Mjk5MURGIiwicG9zIjoiQkVDM0E5RDNEMkYyNDc3NEE1RkQxREFCRjg4RDkzN0QiLCJ1c2VySW5mbyI6IntcInR5cGVcIjpcIkEwUklEXCIsXCJsYW5ndWFnZVwiOlwiZGVcIixcIm5hbWVcIjpcIkJ5QWxleCBkZXMgQWxleCBNdXRzY2hsZWNobmVyXCIsXCJmaXJzdG5hbWVcIjpcIkFsZXh1c1wiLFwibGFzdG5hbWVcIjpcIk11dHNjaGxlY2huZXJ1c1wiLFwibWFpbkZvdG9cIjpcImh0dHBzOi8vZG9jLmx0cy5pdC9Eb2NTaXRlL0ltYWdlUmVuZGVyLmFzcHg_SUQ9YWZkMTc2OGIxNzgwYTM2MzUyMTQ4YjdkZTk3MTU0YzZcIn0iLCJuYmYiOjE1OTc2NjQ5MjksImV4cCI6MTU5NzY2ODUyOSwiaWF0IjoxNTk3NjY0OTI5fQ.RZa74pYnYnNLvQS3YDA5HI9761LEre1FA2jIb2rqeyY",
+        "expireSeconds": 3600
+      }
+    },
+    "pos": "BEC3A9D3D2F24774A5FD1DABF88D937D",
+    "g0rid": "6B797D840FDF5801C5FD14C6652991DF",
+    "user": {
+      "type": "A0RID",
+      "language": "de",
+      "name": "ByAlex des Alex Mutschlechner",
+      "firstname": "Alexus",
+      "lastname": "Mutschlechnerus",
+      "mainFoto": "https://doc.lts.it/DocSite/ImageRender.aspx?ID=afd1768b1780a36352148b7de97154c6"
+    }
   }
 }
