@@ -30,21 +30,21 @@
   },
   "promotions": [
     {
-      "rid": "A32424FDFGDF345ASD",
+      "id": "A32424FDFGDF345ASD",
       "active": 1,
       "quantity": 10,
       "title": "prova1",
       "description": "descrizione dettaglio"
     },
     {
-      "rid": "ASFDASASD234234",
+      "id": "ASFDASASD234234",
       "active": 0,
       "quantity": 5,
       "title": "prova2",
       "description": "bla bla bla"
     },
     {
-      "rid": "34534SDFGSDF234324",
+      "id": "34534SDFGSDF234324",
       "active": 1,
       "quantity": 3,
       "title": "prova2",
