@@ -3,6 +3,10 @@
     {
       "id": 1,
       "title": "hello"
+    },
+    {
+      "id": 2,
+      "title": "hello2"
     }
   ],
   "login": {
@@ -23,5 +27,28 @@
       "lastname": "Mutschlechnerus",
       "mainFoto": "https://doc.lts.it/DocSite/ImageRender.aspx?ID=afd1768b1780a36352148b7de97154c6"
     }
-  }
+  },
+  "promotions": [
+    {
+      "rid": "A32424FDFGDF345ASD",
+      "active": 1,
+      "quantity": 10,
+      "title": "prova1",
+      "description": "descrizione dettaglio"
+    },
+    {
+      "rid": "ASFDASASD234234",
+      "active": 0,
+      "quantity": 5,
+      "title": "prova2",
+      "description": "bla bla bla"
+    },
+    {
+      "rid": "34534SDFGSDF234324",
+      "active": 1,
+      "quantity": 3,
+      "title": "prova2",
+      "description": "wow figo"
+    }
+  ]
 }
